@@ -32,7 +32,7 @@ Areeb Malik, from Facebook, talks about his experience using React. "On paper, a
 
 ## What is React?
 
-[Craig McKeachie](http://www.funnyant.com/author/admin/) author of [JavaScript Framework Guide](http://www.funnyant.com/javascript-framework-guide/) wrote an excellent news named ["What is React.js? Another Template Library?](http://www.funnyant.com/reactjs-what-is-it/)
+[Craig McKeachie](http://www.funnyant.com/author/admin/) author of [JavaScript Framework Guide](http://www.funnyant.com/javascript-framework-guide/) wrote an excellent news named [What is React.js? Another Template Library?](http://www.funnyant.com/reactjs-what-is-it/)
 
 - Is React a template library?
 - Is React similar to Web Components?
